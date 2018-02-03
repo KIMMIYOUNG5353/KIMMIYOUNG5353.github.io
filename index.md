@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -6,13 +5,13 @@
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=yes" />
 
-<meta property="og:site_name" content="СПБГУ" />
-<meta property="og:title" content="СПБГУ 대한민국 총동문회" />
-<meta property="og:description" content="2018년 2월 17일 오후 19시30분, 역사적인 СПБГУ 대한민국 총동문회 창립식에 함께해주십시오" />
-<meta property="og:image" content="https://user-images.githubusercontent.com/36090272/35768101-57c18b06-093a-11e8-8c6c-023425a8cd5f.jpg" />
-<meta property="og:image" content="https://user-images.githubusercontent.com/36090272/35768102-57e7cadc-093a-11e8-9b6d-aa6787cf3516.jpg" />
+<meta property="og:site_name" content="babyparty" />
+<meta property="og:title" content="우리아이 생일을 축하해 주세요." />
+<meta property="og:description" content="2016년 2월 3일 오후 1시, 봄파티에서 우리아이 생일을 축하해주세요~" />
+<meta property="og:image" content="https://cloud.githubusercontent.com/assets/16554116/12774533/375b55dc-ca89-11e5-9829-e5984d1d2efa.jpg" />
+<meta property="og:image" content="https://cloud.githubusercontent.com/assets/16554116/12774535/375cf090-ca89-11e5-8589-c69d0f62defb.jpg" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="KIMMIYOUNG5353.github.io" />
+<meta property="og:url" content="rmsidtest.github.io" />
 
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/jquery.slick/1.5.9/slick.css"/>
 <style>
@@ -191,46 +190,43 @@ body {
 		<div class="slide_wrap">
 			<div id="autoplay" style="display:none;">
 				<!-- //이미지 추가 -->
-				<img src="https://user-images.githubusercontent.com/36090272/35768101-57c18b06-093a-11e8-8c6c-023425a8cd5f.jpg" class="img100" />
-				<img src="https://user-images.githubusercontent.com/36090272/35768102-57e7cadc-093a-11e8-9b6d-aa6787cf3516.jpg" class="img100" />
-				<img src="https://user-images.githubusercontent.com/36090272/35768103-580e0d5a-093a-11e8-87ec-3feba4ac375c.jpg" class="img100" />
-				<img src="https://user-images.githubusercontent.com/36090272/35768104-5835c2e6-093a-11e8-8ea5-e32247b0778d.jpg" class="img100" />
-				<img src="https://user-images.githubusercontent.com/36090272/35768105-585cf776-093a-11e8-8e6a-bb2aed831530.jpg" class="img100" />
-				<img src="https://user-images.githubusercontent.com/36090272/35768106-58a6d81e-093a-11e8-9843-d4b94c386ccb.jpg" class="img100" />
-				<img src="https://user-images.githubusercontent.com/36090272/35768107-58cc25b0-093a-11e8-98b8-969c0164de78.jpg" class="img100" />
+				<img src="https://cloud.githubusercontent.com/assets/16554116/12774533/375b55dc-ca89-11e5-9829-e5984d1d2efa.jpg" class="img100" />
+				<img src="https://cloud.githubusercontent.com/assets/16554116/12774535/375cf090-ca89-11e5-8589-c69d0f62defb.jpg" class="img100" />
+				<img src="https://cloud.githubusercontent.com/assets/16554116/12774534/375c0694-ca89-11e5-8af1-88a7179c3ec1.jpg" class="img100" />
 			</div>
 		</div>
 		<div class="content_wrap">
-			<h1><img src="https://user-images.githubusercontent.com/36090272/35768100-579b086e-093a-11e8-9773-4fcc83fb9ba4.png" alt="icon finder free icon" />СПбГУ 대한민국 총동문회 창립 총회<img src="https://user-images.githubusercontent.com/36090272/35768100-579b086e-093a-11e8-9773-4fcc83fb9ba4.png" alt="icon finder free icon" /></h1>
-			친애하는 СПбГУ 동문여러분! <br />
-			이번에 공식 출범하는 СПбГУ 대한민국 총동문회장을 맡은 박종수입니다<br />
-			СПбГУ 졸업생들의 커뮤니케이션 및 모교와 개인의 발전을 위해 출범하는 СПбГУ 총동문회 총회에 <br />
-			아낌없는 참석과 기쁨을 누리시는 시간이 되시길 바랍니다.<br />
+			<h1><img src="https://cdn0.iconfinder.com/data/icons/kameleon-free-pack/110/Party-Poppers-128.png" alt="icon finder free icon" />우리 아가의 돌잔치에 초대합니다<img src="https://cdn0.iconfinder.com/data/icons/kameleon-free-pack/110/Party-Poppers-128.png" alt="icon finder free icon" /></h1>
+			항상 저희를 아껴주시고, 응원해 주시는 분들께<br />
+			감사의 말씀을 드립니다.<br />
+			소중한 분들께 조금이나마 보답하고자,<br />
+			우리 아가의 첫번째 돌잔치에 초대장을 보내드립니다.<br />
+			아무쪼록 오셔서 자리를 빛내 주셨으면 좋겠습니다.
 		</div>
 		<div class="contact_wrap">
+			<a href="tel:010-1234-5678" class="bg1"><img src="https://cdn4.iconfinder.com/data/icons/miu/24/device-iPhone-smartphone-vertical-glyph-128.png" alt="tel">엄마전화</a>
+			<a href="tel:010-1234-5678" class="bg2"><img src="https://cdn4.iconfinder.com/data/icons/miu/24/device-iPhone-smartphone-vertical-glyph-128.png" alt="tel">아빠전화</a>
+			<a href="mailto:rmsidtest@gmail.com" class="bg3"><img src="https://cdn4.iconfinder.com/data/icons/miu/24/common-email-envelope-mail-outline-stroke-128.png" alt="email" />이메일</a>
 		</div>
 		<div class="date_wrap">
-			<span><img src="https://cdn2.iconfinder.com/data/icons/office-38/24/office-40-128.png" alt="time" />일시 : <strong>2018년 02월 17일 오후 7시30분</strong></span>
+			<span><img src="https://cdn2.iconfinder.com/data/icons/office-38/24/office-40-128.png" alt="time" />초대일시 : <strong>2016년 02월 03일 오후 1시</strong></span>
 		</div>
 		<div class="addr_wrap">
-			<span><img src="https://cdn4.iconfinder.com/data/icons/miu/24/house-home-real_estate-property-glyph-128.png" alt="place" />장소 : <strong>케이터틀(구.거구장)</strong> | 서울특별시 마포구 백범로23(신수동63-14)</span>
+			<span><img src="https://cdn4.iconfinder.com/data/icons/miu/24/house-home-real_estate-property-glyph-128.png" alt="place" />초대장소 : <strong>봄파티</strong> | 경기도 성남시 분당구 수내동21-1MS Plaza 10층</span>
 		</div>
 		<div class="map_wrap" id="map"></div>
 		<div class="tras_wrap">
 			<div>
 				<div class="what"><img src="https://cdn2.iconfinder.com/data/icons/vehicles-7/24/vehicles-04-128.png" alt="metro" />지하철</div>
-				<div class="is">2호선 신촌역 6번출구 서강대방면 150m</div>
-				<div class="is">경의중앙선 서강대역 1번 출구 서강대방면 200m</div>
-				<div class="is">6호선 대흥역 1번 출구 서강대방면 600m</div>
+				<div class="is">분당선 수내역 3번 출구</div>
 			</div>
 			<div>
 				<div class="what"><img src="https://cdn2.iconfinder.com/data/icons/vehicles-7/24/vehicles-12-128.png" alt="metro" />버스</div>
-				<div class="is">간선버스 신촌로터리나 서강대앞 하차(13-1, 19, 110, 163, 170, 171, 271, 371, 472, 602, 603, 604, 705, 740, 753</div>
-                                                             <div class="is">지선버스 (1, 1-1, 3, 7, 8, 8-1, 11, 11-1, 19, 10, 5711, 5712, 5713, 5714, 7011, 7012, 7015, 7016, 7611, 7613, 7711, 7726</div>
+				<div class="is">2, 52, 220, 1303, 115, 52, 15, 17, 33, 52, 55-1, 250, 300, 380, 390, 520, 730, 5200, 5400</div>
 			</div>
 		</div>
 		<div class="copy">
-			© Copyright 2018, СПБГУ 대한민국 총동문회
+			© Copyright 2016, 엄빠가
 		</div>
 	</div>
 	
@@ -238,7 +234,7 @@ body {
 	<script src="https://maps.googleapis.com/maps/api/js?signed_in=true"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.9/slick.min.js"></script>
 	<script>
-	var latlng = "37.552667, 126.937801"; //구글맵에서 위치 검색 후, 맵을 클릭하면 나오는 하단의 좌표를 입력한다.
+	var latlng = "37.378100, 127.112298"; //구글맵에서 위치 검색 후, 맵을 클릭하면 나오는 하단의 좌표를 입력한다.
 
 	function initMap() {
 		if (latlng.length <= 0)
