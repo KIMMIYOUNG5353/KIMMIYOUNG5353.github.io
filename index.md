@@ -201,7 +201,7 @@ body {
 			</div>
 		</div>
 		<div class="content_wrap">
-			<h1><img src="https://user-images.githubusercontent.com/36090272/35768100-579b086e-093a-11e8-9773-4fcc83fb9ba4.png" />СПбГУ 대한민국 총동문회 창립 총회<img src="https://user-images.githubusercontent.com/36090272/35768100-579b086e-093a-11e8-9773-4fcc83fb9ba4.png" /></h1>
+			<h1><img src="https://user-images.githubusercontent.com/36090272/35768100-579b086e-093a-11e8-9773-4fcc83fb9ba4.png"/>СПбГУ 대한민국 총동문회 창립 총회<img src="https://user-images.githubusercontent.com/36090272/35768100-579b086e-093a-11e8-9773-4fcc83fb9ba4.png"/></h1>
 			친애하는 СПбГУ 동문여러분! <br />
 			이번에 공식 출범하는 СПбГУ 대한민국 총동문회장을 맡은 박종수입니다<br />
 			СПбГУ 졸업생들의 커뮤니케이션 및 모교와 개인의 발전을 위해 출범하는 СПбГУ 총동문회 총회에 <br />
