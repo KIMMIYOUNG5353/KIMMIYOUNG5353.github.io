@@ -8,7 +8,7 @@
 
 <meta property="og:site_name" content="СПБГУ" />
 <meta property="og:title" content="СПБГУ 대한민국 총동문회" />
-<meta property="og:description" content="2018년 2월 17일 오후 19시30분, 역사적인 СПБГУ 대한민국 총동문회 창립식에 함께해주십시오" />
+<meta property="og:description" content="СПБГУ 대한민국 총동문회 창립식에 " />
 <meta property="og:image" content="https://user-images.githubusercontent.com/36090272/35768104-5835c2e6-093a-11e8-8ea5-e32247b0778d.jpg" />
 <meta property="og:image" content="https://user-images.githubusercontent.com/36090272/35768105-585cf776-093a-11e8-8e6a-bb2aed831530.jpg" />
 <meta property="og:type" content="website" />
