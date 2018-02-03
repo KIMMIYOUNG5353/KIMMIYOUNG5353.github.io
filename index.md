@@ -9,10 +9,10 @@
 <meta property="og:site_name" content="СПБГУ" />
 <meta property="og:title" content="СПБГУ 대한민국 총동문회" />
 <meta property="og:description" content="2018년 2월 17일 오후 19시30분, 역사적인 СПБГУ 대한민국 총동문회 창립식에 함께해주십시오" />
-<meta property="og:image" content="https://cloud.githubusercontent.com/assets/16554116/12774533/375b55dc-ca89-11e5-9829-e5984d1d2efa.jpg" />
-<meta property="og:image" content="https://cloud.githubusercontent.com/assets/16554116/12774535/375cf090-ca89-11e5-8589-c69d0f62defb.jpg" />
+<meta property="og:image" content="https://user-images.githubusercontent.com/36090272/35768104-5835c2e6-093a-11e8-8ea5-e32247b0778d.jpg" />
+<meta property="og:image" content="https://user-images.githubusercontent.com/36090272/35768105-585cf776-093a-11e8-8e6a-bb2aed831530.jpg" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="rmsidtest.github.io" />
+<meta property="og:url" content="KIMMIYOUNG5353.github.io" />
 
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/jquery.slick/1.5.9/slick.css"/>
 <style>
