@@ -237,7 +237,7 @@ body {
 	<script src="https://maps.googleapis.com/maps/api/js?signed_in=true"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.9/slick.min.js"></script>
 	<script>
-	var latlng = "37.552681, 126.937810"; //구글맵에서 위치 검색 후, 맵을 클릭하면 나오는 하단의 좌표를 입력한다.
+	var latlng = "37.378100, 127.112298"; //구글맵에서 위치 검색 후, 맵을 클릭하면 나오는 하단의 좌표를 입력한다.
 
 	function initMap() {
 		if (latlng.length <= 0)
@@ -277,15 +277,13 @@ body {
 		});
 		targetEle.css({"display" : "block"});
 		var tmpHeight = 0;
-		targetEle.find("img").first().load(function(e) {
-			targetEle.find("img").each(function(k, v) {
-				var _this = $(this);
-				if( tmpHeight == 0 || tmpHeight > _this.height() ) {
-					tmpHeight = _this.height();
-				}
-			});
-			$(".slide_wrap").height(tmpHeight);
+		targetEle.find("img").each(function(k, v) {
+			var _this = $(this);
+			if( tmpHeight == 0 || tmpHeight > _this.height() ) {
+				tmpHeight = _this.height();
+			}
 		});
+		$(".slide_wrap").height(tmpHeight);
 	});
 	
 	</script>
