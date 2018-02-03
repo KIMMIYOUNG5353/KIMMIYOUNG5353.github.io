@@ -191,17 +191,17 @@ body {
 		<div class="slide_wrap">
 			<div id="autoplay" style="display:none;">
 				<!-- //이미지 추가 -->
-				<img src="images/1.jpg" class="img100" />
-				<img src="images/2.jpg" class="img100" />
-				<img src="images/3.jpg" class="img100" />
-				<img src="images/4.jpg" class="img100" />
-				<img src="images/5.jpg" class="img100" />
-				<img src="images/6.jpg" class="img100" />
-				<img src="images/7.jpg" class="img100" />
+				<img src="https://user-images.githubusercontent.com/36090272/35768101-57c18b06-093a-11e8-8c6c-023425a8cd5f.jpg" class="img100" />
+				<img src="https://user-images.githubusercontent.com/36090272/35768102-57e7cadc-093a-11e8-9b6d-aa6787cf3516.jpg" class="img100" />
+				<img src="https://user-images.githubusercontent.com/36090272/35768103-580e0d5a-093a-11e8-87ec-3feba4ac375c.jpg" class="img100" />
+				<img src="https://user-images.githubusercontent.com/36090272/35768104-5835c2e6-093a-11e8-8ea5-e32247b0778d.jpg" class="img100" />
+				<img src="https://user-images.githubusercontent.com/36090272/35768105-585cf776-093a-11e8-8e6a-bb2aed831530.jpg" class="img100" />
+				<img src="https://user-images.githubusercontent.com/36090272/35768106-58a6d81e-093a-11e8-9843-d4b94c386ccb.jpg" class="img100" />
+				<img src="https://user-images.githubusercontent.com/36090272/35768107-58cc25b0-093a-11e8-98b8-969c0164de78.jpg" class="img100" />
 			</div>
 		</div>
 		<div class="content_wrap">
-			<h1><img src="images/1.png" alt="icon finder free icon" />СПбГУ 대한민국 총동문회 창립 총회<img src="images/1.png" alt="icon finder free icon" /></h1>
+			<h1><img src="https://user-images.githubusercontent.com/36090272/35768100-579b086e-093a-11e8-9773-4fcc83fb9ba4.png" alt="icon finder free icon" />СПбГУ 대한민국 총동문회 창립 총회<img src="https://user-images.githubusercontent.com/36090272/35768100-579b086e-093a-11e8-9773-4fcc83fb9ba4.png" alt="icon finder free icon" /></h1>
 			친애하는 СПбГУ 동문여러분! <br />
 			이번에 공식 출범하는 СПбГУ 대한민국 총동문회장을 맡은 박종수입니다<br />
 			СПбГУ 졸업생들의 커뮤니케이션 및 모교와 개인의 발전을 위해 출범하는 СПбГУ 총동문회 총회에 <br />
