@@ -9,8 +9,8 @@
 <meta property="og:site_name" content="СПБГУ" />
 <meta property="og:title" content="СПБГУ 대한민국 총동문회" />
 <meta property="og:description" content="СПБГУ 대한민국 총동문회 창립식에 " />
-<meta property="og:image" content="https://user-images.githubusercontent.com/36090272/35768104-5835c2e6-093a-11e8-8ea5-e32247b0778d.jpg" />
-<meta property="og:image" content="https://user-images.githubusercontent.com/36090272/35768105-585cf776-093a-11e8-8e6a-bb2aed831530.jpg" />
+<meta property="og:image" content="https://user-images.githubusercontent.com/36090272/35768103-580e0d5a-093a-11e8-87ec-3feba4ac375c.jpg" />
+<meta property="og:image" content="https://user-images.githubusercontent.com/36090272/35768101-57c18b06-093a-11e8-8c6c-023425a8cd5f.jpg" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="KIMMIYOUNG5353.github.io" />
 
